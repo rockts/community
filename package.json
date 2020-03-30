@@ -1,0 +1,32 @@
+{
+  "name": "community",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rockts/community.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rockts/community/issues"
+  },
+  "homepage": "https://github.com/rockts/community#readme",
+  "dependencies": {
+    "art-template": "^4.12.2",
+    "bootstrap": "^3.3.7",
+    "express": "^4.16.3",
+    "express-art-template": "^1.0.1",
+    "express-mysql-session": "^1.2.3",
+    "express-session": "^1.15.6",
+    "jquery": "^3.3.1",
+    "md5": "^2.2.1",
+    "moment": "^2.21.0",
+    "mysql": "^2.15.0"
+  }
+}

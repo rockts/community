@@ -9,7 +9,7 @@
 </head>
 
 <body>
-  <!-- 
+  <!--
     1. 处理表单页面
     2. 发起请求
     3. 服务端接收请求
@@ -19,7 +19,7 @@
   <div class="main">
     <div class="header">
       <a href="/">
-        <img src="/public/img/logo3.png" alt="">
+        <img style="width: 120px;" src="/public/img/logo-light.png" alt="">
       </a>
       <h1>用户注册</h1>
     </div>
@@ -39,7 +39,7 @@
       <button type="submit" class="btn btn-success btn-block">注册</button>
     </form>
     <div class="message">
-      <p>已有账号? <a href="/login">点击登录</a>.</p>
+      <p>已有账号? <a href="/signin">点击登录</a>.</p>
     </div>
   </div>
   <script src="/node_modules/jquery/dist/jquery.js"></script>
@@ -84,7 +84,7 @@
           // 判断 data 中的数据是否成功，成功则跳转到首页
         },
         error: function () {
-          
+
         }
       })
     }

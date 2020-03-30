@@ -1,8 +1,13 @@
 # 多用户社区的 NodeJS
 
-> 原作者： 应该是 @lipengzhou  
-> 作者github： https://github.com/lipengzhou/itcast-resource.git (已失效)
+这个项目应该是个类似问答系统未完成项目。
 
-这应该是一个未完成的课程，等以后水平到位了。把这个项目的功能写完。
+## 目前功能：
 
-> 这个项目应该就是一个类似问答的系统。
+- 用户注册
+- 用户登录
+
+_以后水平到位了，把这个项目的功能写完。_
+
+> 原作者： 应该是 [@lipengzhou](https://github.com/lipengzhou)  
+> Github： ~~https://github.com/lipengzhou/itcast-resource.git~~ (已失效)

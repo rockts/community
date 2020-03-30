@@ -8,10 +8,10 @@ const options = {
   host: 'localhost',
   port: 3306,
   user: 'root',
-  password: '123',
+  password: '8363678',
   database: 'ithub'
 }
- 
+
 const sessionStore = new MySQLStore(options)
 
 const app = express()
